@@ -704,7 +704,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-v-col-2.fh5co-bg-img {
-    height: 200px;
+    height: 700px;
   }
 }
 @media screen and (max-width: 768px) {
@@ -741,7 +741,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-h-row-2 > .fh5co-v-col-2.fh5co-bg-img {
-    height: 200px;
+    height: 700px;
   }
 }
 #fh5co-featured .fh5co-grid > .fh5co-v-half > .fh5co-h-row-2.fh5co-reversed .fh5co-bg-img {
